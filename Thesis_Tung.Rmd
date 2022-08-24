@@ -174,7 +174,7 @@ stargazer(as.data.frame(AME_table),summary = FALSE)
 
 ```
 
-## Hypothesis 2:  Participants who are offered more monetary incentive will be more likely to have a higher level of privacy concern about PMDC than participants who are offered less monetary incentive.
+## Hypothesis 2:  Participants who are offered more monetary incentive will be more likely to have a high level of privacy concern about PMDC than participants who are offered less monetary incentive.
 
 ````{r data analysis}
 
